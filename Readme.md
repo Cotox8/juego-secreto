@@ -5,3 +5,4 @@
 - -para ejecutar el sistema debes poner :
 
 -  '''npm install react'''
+-  sistema de juegos 2
